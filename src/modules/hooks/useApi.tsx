@@ -43,8 +43,6 @@ export const useApi = () => {
     } catch (error) {
       handleError(error)
       return [];
-    } finally {
-      setIsLoading(false);
     }
   };
 
@@ -73,8 +71,6 @@ export const useApi = () => {
     } catch (error) {
       handleError(error);
       return [];
-    } finally {
-      setIsLoading(false);
     }
   };
 
@@ -103,8 +99,6 @@ export const useApi = () => {
     } catch (error) {
       handleError(error);
       return [];
-    } finally {
-      setIsLoading(false);
     }
   };
 
