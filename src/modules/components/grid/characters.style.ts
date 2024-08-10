@@ -12,7 +12,8 @@ export const Container = styled.div`
   scrollbar-width: none;
   -ms-overflow-style: none;
   gap: 14px;
-  padding: 20px;
+  padding: 0px;
+  max-width: 98vw;
 
   &::-webkit-scrollbar {
     display: none;
