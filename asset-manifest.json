@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/starwars-react-app/static/css/main.f77cd8f1.css",
-    "main.js": "/starwars-react-app/static/js/main.3570b780.js",
+    "main.js": "/starwars-react-app/static/js/main.c378541d.js",
     "static/js/453.cdd94e85.chunk.js": "/starwars-react-app/static/js/453.cdd94e85.chunk.js",
     "static/media/blueLightsaber.png": "/starwars-react-app/static/media/blueLightsaber.571eed0a56ede9752850.png",
     "static/media/starwarslogo.png": "/starwars-react-app/static/media/starwarslogo.a1562356a34f2379a5fd.png",
     "static/media/redLightsaber.png": "/starwars-react-app/static/media/redLightsaber.672be4b2663c60a6d27e.png",
     "index.html": "/starwars-react-app/index.html",
     "main.f77cd8f1.css.map": "/starwars-react-app/static/css/main.f77cd8f1.css.map",
-    "main.3570b780.js.map": "/starwars-react-app/static/js/main.3570b780.js.map",
+    "main.c378541d.js.map": "/starwars-react-app/static/js/main.c378541d.js.map",
     "453.cdd94e85.chunk.js.map": "/starwars-react-app/static/js/453.cdd94e85.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f77cd8f1.css",
-    "static/js/main.3570b780.js"
+    "static/js/main.c378541d.js"
   ]
 }
