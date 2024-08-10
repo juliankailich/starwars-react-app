@@ -4,4 +4,10 @@ html, body {
     background-color: black;
     overflow: hidden;
     font-family: "Roboto Mono", monospace;
+    -ms-overflow-style: none;
+    scrollbar-width: none; 
 }
+html, body::-webkit-scrollbar {
+    display: none;
+  }
+  
